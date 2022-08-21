@@ -1,0 +1,13 @@
+{
+  "token":"MTAxMDUyNTEzMTI0MTY5MzIwNg.GPk4Wg.khCWUMpJkO5VpBAW1yHQGtJ9NhTAHAuFameUBs",
+  "prefix":"m.",
+  "color":"0xff0000",
+  "presence":"{prefix}help/{server}サーバー",
+  "commands":["help","play","join","leave","skip","pause","resume","loop","queue"],
+  "lavalink":{
+    "host":"lavalinkinc.ml",
+    "port":"443",
+    "password":"incognito",
+    "https":true
+  }
+}

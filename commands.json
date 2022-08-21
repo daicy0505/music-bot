@@ -1,0 +1,38 @@
+{
+  "help":{
+    "name":"help","aliases":["h","?"],"usage":"help [コマンド名,None]",
+  "description":"コマンド一覧などを見れる\nコマンドの使い方を確認できる"
+  },
+  "play":{
+    "name":"play","aliases":["p"],"usage":"play [曲名,URL]",
+  "description":"曲名またはURLから音楽を再生できる"
+  },
+  "join":{
+    "name":"join","aliases":[],"usage":"join",
+  "description":"Botをボイスチャンネルに参加させられる"
+  },
+  "leave":{
+    "name":"leave","aliases":["dc"],"usage":"leave",
+  "description":"Botをチャンネルから切断できる"
+  },
+  "skip":{
+    "name":"skip","aliases":["s"],"usage":"skip",
+  "description":"曲をスキップできる"
+  },
+  "pause":{
+    "name":"pause","aliases":[],"usage":"pause",
+  "description":"曲を一時停止できる"
+  },
+  "resume":{
+    "name":"resume","aliases":["res"],"usage":"resume",
+  "description":"一時停止した曲を再開できる"
+  },
+  "loop":{
+    "name":"loop","aliases":["l"],"usage":"loop",
+  "description":"曲をループできる"
+  },
+  "queue":{
+    "name":"queue","aliases":["q"],"usage":"queue",
+  "description":"キューを確認できる"
+  }
+}
